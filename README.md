@@ -1,5 +1,5 @@
 # WEB-Aciklari
-yeni başlayanlar için , internet sitelerinde açık aramak için
+yeni başlayanlar için , internet sitelerinde açık aramakda kullanılan tool
 
 
 indirmek için
